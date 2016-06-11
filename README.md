@@ -1,0 +1,1 @@
+# styrian-panther-consulting
