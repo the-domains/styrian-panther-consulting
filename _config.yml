@@ -1,0 +1,28 @@
+name: Styrian Panther Consulting
+favicon: null
+layout_spectrum: 0.3080357685685158
+typography_spectrum: 0.014536764239892364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9951511579565704
+  lightness: 0.517105401493609
+  saturation: 0.6787786078639328
+  rhythmicContrast: 0.40093680983409286
+purpose: []
